@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/rectangle_42.svg");
+}
+
+
+#orange-dots {
+    position: relative;
+    right: 400px;
+}
+
+#web-design {
+    position: relative;
+    top: -400px;
+    right: 350px;
+}
+
+/* 
+.content {
+    height: 30%;
+    background-color: red;
+    margin: 0 0 1em 0;
+    padding-top: 1em;
+
+} */
+
+/* div#div1.content {
+    position: relative;
+    left: 100px;
+}
+
+div#div2.content {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    z-index: 1;
+}
+
+div#div3.content {
+    position: relative;
+    top: 100px;
+    z-index: 0;
+
+}
+
+#divs3-h1 {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+} */
+/* this is for position demo ^^^^ */
